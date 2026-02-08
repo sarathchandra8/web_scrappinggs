@@ -1,0 +1,3 @@
+## Requirements
+
+scrapy>=2.14
