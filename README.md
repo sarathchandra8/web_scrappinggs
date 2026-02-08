@@ -3,4 +3,3 @@
 ## Dependencies
 - Python 3.10+
 - scrapy
-- 
